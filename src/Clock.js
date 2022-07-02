@@ -1,4 +1,5 @@
 import React from "react";
+import { useState, useEffect } from "react";
 
 class Clock extends React.Component {
     constructor (props){
